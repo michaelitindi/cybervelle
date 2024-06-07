@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-job-board",
+  "name": "remotekenya",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.29.1",
+    "@clerk/types": "^4.6.0",
     "@hookform/resolvers": "^3.3.3",
     "@prisma/client": "^5.7.1",
     "@radix-ui/react-label": "^2.0.2",
